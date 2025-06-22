@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/18e6cec2-4a17-40b0-be74-b072a0181054)
+![Image](https://github.com/user-attachments/assets/41cd195c-a107-4f3a-b7af-c6420f82d1e0)
 # Quiz-App-with-Timer-Sound-Category-Selection
 A colorful, interactive Tkinter-based Quiz Application that fetches live multiple-choice questions from a free trivia API (Open Trivia DB)
 
